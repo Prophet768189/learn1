@@ -3,4 +3,8 @@ i love
 i love coding
 
 dev:321rqfe
+<<<<<<< HEAD
 master:789
+=======
+dev:456
+>>>>>>> dev
