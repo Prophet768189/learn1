@@ -4,7 +4,13 @@ i love coding
 
 dev:321rqfe
 <<<<<<< HEAD
+<<<<<<< HEAD
 master:789
 =======
 dev:456
 >>>>>>> dev
+=======
+master:789
+dev:456
+dev:only show in dev
+>>>>>>> 48098f7a3f3816bcdfdeb82190bc12051796fc21
